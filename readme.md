@@ -1,2 +1,3 @@
 # AI FOR MEDICINE SPECIALIZATION
 
+Cursos em andamento
