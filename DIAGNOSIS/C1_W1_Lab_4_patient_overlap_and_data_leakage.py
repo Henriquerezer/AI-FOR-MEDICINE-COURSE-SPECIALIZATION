@@ -14,7 +14,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-get_ipython().run_line_magic('matplotlib', 'inline')
+get_ipython().run_line_magic('matplotlib', 'inline') # type: ignore
 import os
 import seaborn as sns
 sns.set()
