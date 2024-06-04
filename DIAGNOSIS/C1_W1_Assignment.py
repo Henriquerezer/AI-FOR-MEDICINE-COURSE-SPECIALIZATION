@@ -775,7 +775,7 @@ model.compile(optimizer='adam', loss=get_weighted_loss(pos_weights, neg_weights)
 # In[39]:
 
 
-model.load_weights()
+model.load_weights('')
 
 
 # <a name='5'></a>
